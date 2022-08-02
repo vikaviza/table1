@@ -1,0 +1,31 @@
+@import url(https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap);
+
+* {
+    font-family: roboto;
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px solid #ffbe00;
+    width: 40%;
+}
+
+td, th {
+    border: 2px solid #ffbe00;
+    padding: 20px;
+}
+
+.row {
+    background: #f2ab29;
+}
+
+th {
+    text-align: center;
+    background: #ffbe00;
+}
+
+td {
+    color: white;
+    background: #392c6d;
+    text-align: left;
+}
